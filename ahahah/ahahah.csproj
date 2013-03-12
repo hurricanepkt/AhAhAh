@@ -120,6 +120,8 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="ah-ah-ah-o.gif" />
     <Content Include="Global.asax" />
+    <Content Include="tumblr_mhog0srM5J1s3v8rqo1_400.gif" />
+    <Content Include="tumblr_mhog0srM5J1s3v8rqo4_400.gif" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -138,10 +140,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Properties\PublishProfiles\ahahah - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\ahahah - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
